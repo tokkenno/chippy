@@ -1,2 +1,2 @@
-# chippy
-Chippy, a Chip8 emulator.
+# Chippy
+A [CHIP-8](http://en.wikipedia.org/wiki/CHIP-8) emulator.
